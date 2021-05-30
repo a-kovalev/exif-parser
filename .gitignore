@@ -1,0 +1,13 @@
+## editors
+/.idea
+
+## system files
+.DS_Store
+
+## npm
+/node_modules/
+npm-debug.log
+yarn-error.log
+
+## build output
+/dist
